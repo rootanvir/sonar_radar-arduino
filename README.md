@@ -31,6 +31,7 @@
 ---
 
 ## Notes
+- In processing code change your com number [example : mine is com7]
 - If using a high-torque servo, consider an **external 5V supply** instead of Arduino 5V.
 - Connect **all GNDs together** if using external power.
 - TRIG pin sends a pulse from Arduino; ECHO pin receives the reflected signal.
